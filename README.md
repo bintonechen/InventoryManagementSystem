@@ -3,6 +3,32 @@
 ## Overview
 This project is a full-stack application for inventory management, featuring a frontend built with Vue.js and a backend powered by Spring Boot. This guide provides instructions for setting up and running the project on your local machine.
 
+## Background
+As a part-time sales assistant at a luxury handbag counter, I have noticed some inconveniences in my work due to the lack of certain features in the inventory management application we use. For instance, we are currently handling customer reservations manually. The primary focus of this application is to provide a standardized method to handle customer reservations. Customer reservations would not only be processed in a standardized manner but also be accurately reflected in the inventory overview.
+
+## Key Features
+- **User Authentication and Authorization**  
+  - Secure login system for users to access application functionalities.  
+  - Role-based access control: Sales assistants and managers have different permissions.  
+  - Only managers can add and edit user accounts.  
+
+- **Customer Management**  
+  - Add new customers to the system.  
+  - Edit existing customer details.  
+  - Search for customers efficiently using filters.  
+
+- **Customer Reservation Service**  
+  - Create, complete, and cancel customer reservations.  
+  - Reservation status updates are reflected on the product page in real time.  
+
+- **Inventory Management**  
+  - Search for items using attributes like barcodes.  
+  - Add new products to update the inventory.  
+  - Create reservations for selected products.  
+
+- **Account Management**  
+  - Managers can add, edit, and delete user accounts.
+
 ## Prerequisites
 Before running the project, ensure you have the following installed:
 - **Node.js** and **npm** (for running the Vue.js frontend)
