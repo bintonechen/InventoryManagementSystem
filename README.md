@@ -36,6 +36,15 @@ The application is developed using the following technologies:
 
 - **Account Management**  
   - Managers can add, edit, and delete user accounts.
+ 
+## User Interface Preview
+Below are some screenshots of the application's UI:
+<img width="373" alt="image" src="https://github.com/user-attachments/assets/7915507d-1256-455c-b557-af48d0b8362a" />
+<img width="375" alt="image" src="https://github.com/user-attachments/assets/3e4acefa-f17e-4705-a4d5-21e7c04c8af7" />
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/805c841a-d05d-440d-b456-a7bb2d5d6209" />
+<img width="399" alt="image" src="https://github.com/user-attachments/assets/f2510fa6-e2fe-45ef-8520-656bb4a14390" />
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/e42c254f-6d01-478a-b187-cd5bc5848a5d" />
+<img width="396" alt="image" src="https://github.com/user-attachments/assets/75131e9e-6135-4504-8f51-64f77397f35b" />
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
