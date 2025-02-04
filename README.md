@@ -6,6 +6,14 @@ This project is a full-stack application for inventory management, featuring a f
 ## Background
 As a part-time sales assistant at a luxury handbag counter, I have noticed some inconveniences in my work due to the lack of certain features in the inventory management application we use. For instance, we are currently handling customer reservations manually. The primary focus of this application is to provide a standardized method to handle customer reservations. Customer reservations would not only be processed in a standardized manner but also be accurately reflected in the inventory overview.
 
+## Technology Stack
+The application is developed using the following technologies:  
+- **Frontend:** HTML, CSS, JavaScript, Vue.js  
+- **Backend:** Java, Spring Boot  
+- **Database:** MySQL
+  
+<img width="743" alt="Flow Chart" src="https://github.com/user-attachments/assets/9d8f421f-c737-42a2-9b01-c7372d02bef7" />
+
 ## Key Features
 - **User Authentication and Authorization**  
   - Secure login system for users to access application functionalities.  
