@@ -46,9 +46,17 @@ Below are some screenshots of the application's UI:
 ### Home Page
 <img width="375" alt="image" src="https://github.com/user-attachments/assets/588ac10a-f8f3-446a-888e-9e70cb834d15" />
 
+### Customer Management page
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/a66b05c7-2716-4c54-af57-2d837a588eb7" />
 
+### Product Page
+<img width="399" alt="image" src="https://github.com/user-attachments/assets/46c50125-d57f-4a48-9275-f8497ca0cb04" />
 
+### Reservation Page
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/9b41abb8-48ff-43b1-adfc-d5e9a441f3e3" />
 
+### The form to create a new reservation
+<img width="396" alt="image" src="https://github.com/user-attachments/assets/0f5a55ca-ca54-4847-b408-ad2975be1bc8" />
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
