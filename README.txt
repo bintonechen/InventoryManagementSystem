@@ -1,42 +1,56 @@
-Inventory Project - README
+# Inventory Management System
 
-[ Overview ]
-This project is a full-stack application for inventory management, consisting of a frontend built with Vue.js and a backend using Spring Boot. 
-This guide will walk you through the steps needed to run the project on your local machine.
+## Overview
+This project is a full-stack application for inventory management, featuring a frontend built with Vue.js and a backend powered by Spring Boot. This guide provides instructions for setting up and running the project on your local machine.
 
-[ Prerequisites ]
-Before you begin, ensure you have the following installed on your machine:
-	• Node.js and npm (for running the Vue.js frontend)
-	• Java Development Kit (JDK) (for running the Spring Boot backend)
-	• Maven (for managing dependencies in the Spring Boot project)
+## Prerequisites
+Before running the project, ensure you have the following installed:
+- **Node.js** and **npm** (for running the Vue.js frontend)
+- **Java Development Kit (JDK)** (for running the Spring Boot backend)
+- **Maven** (for managing dependencies in the Spring Boot project)
 
-[ Running the Project ]
-Navigate to 'InventoryProject' folder and open it in your IDE.
-Once your IDE has loaded the project and the environment is set, open a new Terminal window.
-In your Terminal, type the following commands to start the Frontend (Vue.js):
-	• cd vue
-	• npm run serve
+## Running the Project
+### 1. Start the Frontend (Vue.js)
+1. Navigate to the project root directory: `InventoryProject/`
+2. Open a terminal and run the following commands:
+   ```sh
+   cd vue
+   npm install   # Install dependencies
+   npm run serve # Start the frontend
+   ```
+3. You should see output similar to the following:
+   ```
+   App running at:
+   - Local:   http://localhost:7000/
+   - Network: http://10.13.224.31:7000/
+   ```
 
-You should see output similar to the following:
-	- App running at:
-  	- Local: http://localhost:7000/ 
-  	- Network: http://10.13.224.31:7000/.  
+### 2. Start the Backend (Spring Boot)
+1. In your project directory, navigate to:
+   ```sh
+   cd springboot
+   ```
+2. Locate and run the `SpringbootApplication` file from:
+   ```sh
+   src/main/java/com/project/springboot/SpringbootApplication.java
+   ```
+3. Ensure the backend is running properly.
 
-Now to start the Backend (Spring Boot):
+### 3. Access the Application
+Once both the frontend and backend are running, open your web browser and go to:
+- [http://localhost:7000/](http://localhost:7000/) (Home page)
+- [http://localhost:7000/login](http://localhost:7000/login) (Login page)
 
-	• In your project directory, navigate to ‘springboot/src/main/java/com/project/springboot/’
-	• Locate and run the ’SpringbootApplication’ file.
+## Login Credentials
+Use the following credentials to log in:
 
-Once Both the frontend and backend are funning:
+### Manager Role
+- **Username:** `PhoebeBuffay`
+- **Password:** `Password`
 
-	• Open your web browser and navigate to ‘http://localhost:7000/’ or ‘http://localhost:7000/login’ to use the application.
+### Sales Assistant Role
+- **Username:** `RachelGreen`
+- **Password:** `Password`
 
-
-[ Login Credentials ]
-To log in as a Manager role:
-	•	Username: PhoebeBuffay 
-	•	Password: Password
-
-To log in as a Sales Assistant role:
-	•	Username: RachelGreen
-	•	Password: Password
+## Contact
+For any issues or inquiries, feel free to reach out to the project maintainers.
