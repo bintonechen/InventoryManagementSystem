@@ -12,7 +12,7 @@ The application is developed using the following technologies:
 - **Backend:** Java, Spring Boot  
 - **Database:** MySQL
   
-<img width="743" alt="Flow Chart" src="https://github.com/user-attachments/assets/9d8f421f-c737-42a2-9b01-c7372d02bef7" />
+
 
 ## Key Features
 - **User Authentication and Authorization**  
@@ -39,8 +39,11 @@ The application is developed using the following technologies:
  
 ## User Interface Preview
 Below are some screenshots of the application's UI:
-![Login Page]<img width="373" alt="image" src="https://github.com/user-attachments/assets/6546e5eb-383e-4e15-94c5-a9f9d206c909" />
-![Home Page]<img width="375" alt="image" src="https://github.com/user-attachments/assets/588ac10a-f8f3-446a-888e-9e70cb834d15" />
+
+### Login Page  
+<img width="373" alt="image" src="https://github.com/user-attachments/assets/6546e5eb-383e-4e15-94c5-a9f9d206c909" />
+### Home Page
+<img width="375" alt="image" src="https://github.com/user-attachments/assets/588ac10a-f8f3-446a-888e-9e70cb834d15" />
 
 
 
