@@ -42,6 +42,7 @@ Below are some screenshots of the application's UI:
 
 ### Login Page  
 <img width="373" alt="image" src="https://github.com/user-attachments/assets/6546e5eb-383e-4e15-94c5-a9f9d206c909" />
+
 ### Home Page
 <img width="375" alt="image" src="https://github.com/user-attachments/assets/588ac10a-f8f3-446a-888e-9e70cb834d15" />
 
